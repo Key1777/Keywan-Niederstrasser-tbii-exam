@@ -11,14 +11,15 @@ A README file. This a markdown file that introduces and explains the projects. I
 
 Instructions to run my app
 
-Clone my repository in a location of your choice
-git clone https://github.com/shaq31415926/sarah-haq-tbii-exam.git
-Change the directory:
-cd sarah-haq-tbii-exam
-Run the code
-Mac:
+<p>1.Clone my repository in a location of your choice</p>
 
-python3 app.py
-Windows:
-
-python app.py
+<ol>
+  <li>fruits <ul>
+      <li>apple</li>
+      <li>banana</li>
+  </ul></li>
+  <li>vegetables <ul>
+      <li>carrot</li>
+      <li>broccoli</li>
+  </ul></li>
+</ol>
