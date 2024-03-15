@@ -1,4 +1,4 @@
-# Keywan-Niederstrasser-tbii-exam ⚽:smiley:
+# Keywan-Niederstrasser-tbii-exam ⚽ :smiley:
 
 This repository contains Keywan Niederstrasser's Tech Basics II Exam Project code.
 
