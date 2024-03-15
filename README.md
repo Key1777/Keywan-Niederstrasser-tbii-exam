@@ -13,7 +13,7 @@ This repository contains the following:
 
 1. Clone my repository in a location of your choice
 ```
-git clone https://github.com/shaq31415926/sarah-haq-tbii-exam.git
+git clone https://github.com/Key1777/Keywan-Niederstrasser-tbii-exam.git
 ```
 2. Change the directory:
 ```
