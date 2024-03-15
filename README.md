@@ -17,7 +17,7 @@ git clone https://github.com/Key1777/Keywan-Niederstrasser-tbii-exam.git
 ```
 2. Change the directory:
 ```
-cd sarah-haq-tbii-exam
+cd Keywan-Niederstrasser-tbii-exam
 ```
 3. Run the code
 Mac:
