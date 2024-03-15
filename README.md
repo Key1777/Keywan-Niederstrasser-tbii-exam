@@ -24,19 +24,24 @@
   
    ```
    git clone https://github.com/Key1777/Keywan-Niederstrasser-tbii-exam.git
-   cd Keywan-Niederstrasser-tbii-exam
    ```
 
    Use code [with caution.](https://gemini.google.com/faq#coding)
 
-2. **Install Dependencies:**
+2. **Change the Directory:**
+
+   ```
+   cd Keywan-Niederstrasser-tbii-exam
+   ```
+
+3. **Install Dependencies:**
 
    - **Check your Python Version:** Before installing, run `python --version` or `python3 --version` in your terminal to determine if you're using Python 2 or Python 3.
    - **Install pygame:**
      - **Python 3:** `pip3 install pygame`
      - **Python 2:** `pip install pygame`
 
-3. **Run the Code:**
+4. **Run the Code:**
 
    - Mac:
 
